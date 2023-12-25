@@ -12,7 +12,7 @@ or by [telegram](https://t.me/Rederickmind)
 I speak Russian and English. 
 
 
-### Languages and tools
+### Languages, frameworks and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -38,7 +38,7 @@ I speak Russian and English.
 
 ## Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
-- 
+<- [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final)>
 
 ## Flask
 - 
