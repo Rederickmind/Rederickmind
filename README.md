@@ -38,7 +38,7 @@ I speak Russian and English.
 
 ## Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
-<- [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final)>
+<!-- - [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final) -->
 
 ## Flask
 - 
