@@ -7,7 +7,7 @@ I am looking forward to expand my experience and cooperate with people on their 
 I am currently in search for job offers to move from technical support to programming.
 
 You can reach me by one of my e-mails: [therederickmind@gmail.com](mailto:therederickmind@gmail.com) / [levushkin.ni@gmail.com](mailto:levushkin.ni@gmail.com)
-or by telegram: https://t.me/Rederickmind
+or by [telegram](https://t.me/Rederickmind)
 
 I speak Russian and English. 
 
@@ -34,18 +34,22 @@ I speak Russian and English.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### My stat
+### My Projects
+
+## Django
+- 
+
+## Flask
+- 
+
+## FastAPI
+- 
+
+## Telegram Bots
+- 
+
+### My stats
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=github_dark" alt=""/>
 </div>
-
-### My Projects
-
-## Django
-
-## Flask
-
-## FastAPI
-
-## Telegram Bots
