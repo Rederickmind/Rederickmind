@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 My name is Nikita Levushkin
 
 I am a beginner Python Developer with technical support background.
