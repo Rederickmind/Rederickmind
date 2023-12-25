@@ -37,6 +37,7 @@ I speak Russian and English.
 ### My Projects
 
 ## Django
+- [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
 - 
 
 ## Flask
@@ -47,6 +48,9 @@ I speak Russian and English.
 
 ## Telegram Bots
 - 
+
+## Parsers
+- [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
 
 ### My stats
 <div id="stat" align="center">
