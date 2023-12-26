@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Nikita Levushkin, I am a beginner Python Developer with technical support background.
 
-I have some experience in Django, Flask and FastAPI projects and made some telegram bots for my and my friends daily tasks. 
+I have some experience in Django, Flask and FastAPI projects and made some telegram bots. 
 
 I am looking forward to expand my experience and cooperate with people on their interesting projects. Despite the lack of experience in programming due to my work in technical support, I am quite good at analyzing tasks and asking the right questions, and I always try to understand everything to the end and resolve all of users problems.
 
