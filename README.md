@@ -39,14 +39,16 @@ I speak Russian and English.
 ### Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
 - [Foodgram. Site with recipies, users can post their recipies and follow other users. Also user can create a shopping list with ingridients and download a PDF file.](https://github.com/Rederickmind/foodgram-project-react)
-<!-- - [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final) -->
+- [Yatube social network. Users can post text and media, follow authors and comment users posts.](https://github.com/Rederickmind/hw05_final)
+- [Yatube social network REST API](git@github.com:Rederickmind/api_final_yatube.git)
 
 ### Flask
 - [Movie reviews flask app. User can add new reviews and get random opinion from BD on main page.](https://github.com/Rederickmind/what_to_watch)
-- 
+- [Link shortener Flask service](https://github.com/Rederickmind/yacut)
 
 ### FastAPI
-- 
+- [Meeting room reservations with usage reports to Google Sheets.](https://github.com/Rederickmind/room_reservation_google_api)
+- [Cat charity fund project with statistic reports to Google Sheets.](https://github.com/Rederickmind/QRkot_spreadsheets)
 
 ### Telegram Bots
 - [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot)
@@ -57,6 +59,9 @@ I speak Russian and English.
 ### Parsers
 - [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
 - [BeautifulSoup4 parser for PEP and Python documentation with CLI commands and function to download documentation.](https://github.com/Rederickmind/bs4_parser_pep)
+
+### Opensource projects
+- [Telegram chat-bot for intellectual volunteer ProCharity project (НКО Фонд Друзья).](https://github.com/Rederickmind/ProCharity_back_2.0) Сайт проекта https://procharity.ru/
 
 ## My stats
 <div id="stat" align="center">
