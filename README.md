@@ -40,7 +40,7 @@ I speak Russian and English.
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
 - [Foodgram. Site with recipies, users can post their recipies and follow other users. Also user can create a shopping list with ingridients and download a PDF file.](https://github.com/Rederickmind/foodgram-project-react)
 - [Yatube social network. Users can post text and media, follow authors and comment users posts.](https://github.com/Rederickmind/hw05_final)
-- [Yatube social network REST API](git@github.com:Rederickmind/api_final_yatube.git)
+- [Yatube social network REST API.](https://github.com/Rederickmind/api_final_yatube.git)
 
 ### Flask
 - [Movie reviews flask app. User can add new reviews and get random opinion from BD on main page.](https://github.com/Rederickmind/what_to_watch)
