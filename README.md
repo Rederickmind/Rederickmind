@@ -63,8 +63,21 @@ I speak Russian and English.
 ### Opensource projects
 - [Telegram chat-bot for intellectual volunteer ProCharity project (НКО Фонд Друзья).](https://github.com/Rederickmind/ProCharity_back_2.0) Сайт проекта https://procharity.ru/
 
-## My stats
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=default" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=default" alt=""/>
+
+<div align="center" >
+<a href="https://github.com/Rederickmind">
+    
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=nord_bright" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rederickmind&theme=nord_bright" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rederickmind&theme=nord_bright" width="32.5%">
+    
+</a>
+    
+<details>
+
+<summary> <strong> More stats </strong> </summary>
+<a href="https://github.com/Rederickmind">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=nord_bright" >
+
+</details>
 </div>
