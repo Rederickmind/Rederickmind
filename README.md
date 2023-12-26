@@ -49,7 +49,10 @@ I speak Russian and English.
 - 
 
 ### Telegram Bots
-- 
+- [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot)
+- [Alert bot for Yandex.Practicum Homework review statuses.](https://github.com/Rederickmind/homework_bot)
+- In progress: [Selfhosted VPN keys management tool](https://github.com/Rederickmind/VPN_bot)
+- [Random cat images from API bot](https://github.com/Rederickmind/KittyBot)
 
 ### Parsers
 - [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
