@@ -36,21 +36,22 @@ I speak Russian and English.
 
 ### My Projects
 
-## Django
+# Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
 - [Foodgram. Site with recipies, users can post their recipies and follow other users. Also user can create a shopping list with ingridients and download a PDF file.](https://github.com/Rederickmind/foodgram-project-react)
 <!-- - [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final) -->
 
-## Flask
+# Flask
+- [Movie reviews flask app. User can add new reviews and get random opinion from BD on main page.](https://github.com/Rederickmind/what_to_watch)
 - 
 
-## FastAPI
+# FastAPI
 - 
 
-## Telegram Bots
+# Telegram Bots
 - 
 
-## Parsers
+# Parsers
 - [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
 - [BeautifulSoup4 parser for PEP and Python documentation with CLI commands and function to download documentation.](https://github.com/Rederickmind/bs4_parser_pep)
 
