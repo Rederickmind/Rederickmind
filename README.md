@@ -38,6 +38,7 @@ I speak Russian and English.
 
 ## Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
+- [Foodgram. Site with recipies, users can post their recipies and follow other users. Also user can create a shopping list with ingridients and download a PDF file.](https://github.com/Rederickmind/foodgram-project-react)
 <!-- - [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final) -->
 
 ## Flask
@@ -51,9 +52,10 @@ I speak Russian and English.
 
 ## Parsers
 - [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
+- [BeautifulSoup4 parser for PEP and Python documentation with CLI commands and function to download documentation.](https://github.com/Rederickmind/bs4_parser_pep)
 
 ### My stats
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=default" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=default" alt=""/>
 </div>
