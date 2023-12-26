@@ -6,7 +6,7 @@ I am looking forward to expand my experience and cooperate with people on their 
 
 I am currently in search for job offers to move from technical support to programming.
 
-You can reach me by one of my e-mails: [therederickmind@gmail.com](mailto:therederickmind@gmail.com) / [levushkin.ni@gmail.com](mailto:levushkin.ni@gmail.com)
+You can reach me by one of my e-mails: [mail 1](mailto:levushkin.ni@gmail.com) / [mail 2](mailto:therederickmind@gmail.com)
 or by [telegram](https://t.me/Rederickmind)
 
 I speak Russian and English. 
