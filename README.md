@@ -72,12 +72,8 @@ I speak Russian and English.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rederickmind&theme=nord_bright" width="32.5%">
     
 </a>
-    
-<details>
 
-<summary> <strong> More stats </strong> </summary>
 <a href="https://github.com/Rederickmind">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=nord_bright" >
 
-</details>
 </div>
