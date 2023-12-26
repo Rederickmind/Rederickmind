@@ -12,7 +12,7 @@ or by [telegram](https://t.me/Rederickmind)
 I speak Russian and English. 
 
 
-### Languages, frameworks and tools
+## Languages, frameworks and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -34,28 +34,28 @@ I speak Russian and English.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### My Projects
+## My Projects
 
-# Django
+### Django
 - [YaMDb project with users reviews. Project has CI/CD files for deployment. Group project.](https://github.com/Rederickmind/yamdb_final)
 - [Foodgram. Site with recipies, users can post their recipies and follow other users. Also user can create a shopping list with ingridients and download a PDF file.](https://github.com/Rederickmind/foodgram-project-react)
 <!-- - [Social network Yatube. Text posts with media from users, ](https://github.com/Rederickmind/hw05_final) -->
 
-# Flask
+### Flask
 - [Movie reviews flask app. User can add new reviews and get random opinion from BD on main page.](https://github.com/Rederickmind/what_to_watch)
 - 
 
-# FastAPI
+### FastAPI
 - 
 
-# Telegram Bots
+### Telegram Bots
 - 
 
-# Parsers
+### Parsers
 - [Asynchronous Scrapy framework parser for PEP documentation with downloading results to csv files.](https://github.com/Rederickmind/scrapy_parser_pep)
 - [BeautifulSoup4 parser for PEP and Python documentation with CLI commands and function to download documentation.](https://github.com/Rederickmind/bs4_parser_pep)
 
-### My stats
+## My stats
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rederickmind&theme=default" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rederickmind&theme=default" alt=""/>
