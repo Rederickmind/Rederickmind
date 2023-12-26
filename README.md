@@ -51,7 +51,7 @@ I speak Russian and English.
 - [Cat charity fund project with statistic reports to Google Sheets.](https://github.com/Rederickmind/QRkot_spreadsheets)
 
 ### Telegram Bots
-- [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot)
+- [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot) - deployed and currently working [bot](https://t.me/ClippyRover_bot)
 - [Alert bot for Yandex.Practicum Homework review statuses.](https://github.com/Rederickmind/homework_bot)
 - In progress: [Selfhosted VPN keys management tool](https://github.com/Rederickmind/VPN_bot)
 - [Random cat images from API bot](https://github.com/Rederickmind/KittyBot)
