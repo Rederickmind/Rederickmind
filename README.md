@@ -10,6 +10,7 @@ You can reach me by one of my e-mails: [mail 1](mailto:levushkin.ni@gmail.com) /
 or by [telegram](https://t.me/Rederickmind)
 
 Here is my Yandex course diploma: [RU](https://github.com/Rederickmind/Rederickmind/blob/4c47b8684108c5a2a5c5b6de536d9e48b70d5845/Documents/Yandex%20Practicum/%D0%9B%D1%91%D0%B2%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%20%D0%98%D0%BB%D1%8C%D0%B8%D1%87_20232BEP00401.pdf) / [EN](https://github.com/Rederickmind/Rederickmind/blob/4c47b8684108c5a2a5c5b6de536d9e48b70d5845/Documents/Yandex%20Practicum/Nikita%20Levushkin_20232BEP00401.pdf)
+
 And my [resume on hh.ru](https://hh.ru/resume/73f0936dff0cab71b10039ed1f6a5263476c75) and in [PDF](https://github.com/Rederickmind/Rederickmind/blob/4c47b8684108c5a2a5c5b6de536d9e48b70d5845/Documents/Nikita%20LEVUSHKIN%20Resume.pdf)
 
 I speak Russian and English. 
