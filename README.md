@@ -9,6 +9,9 @@ I am currently in search for job offers to move from technical support to progra
 You can reach me by one of my e-mails: [therederickmind@gmail.com](mailto:therederickmind@gmail.com) / [levushkin.ni@gmail.com](mailto:levushkin.ni@gmail.com)
 or by [telegram](https://t.me/Rederickmind)
 
+Here is my Yandex course diploma: [RU](Documents\Yandex Practicum\Лёвушкин Никита Ильич_20232BEP00401.pdf) / [EN](Documents\Yandex Practicum\Nikita Levushkin_20232BEP00401.pdf)
+And my [resume on hh.ru](https://hh.ru/resume/73f0936dff0cab71b10039ed1f6a5263476c75) and in [PDF](Documents\Nikita LEVUSHKIN Resume.pdf)
+
 I speak Russian and English. 
 
 
