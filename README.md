@@ -1,12 +1,12 @@
 ### Hello there 👋 My name is Nikita Levushkin, I am a beginner Python Developer with technical support background.
 
-I have some experience in Django, Flask and FastAPI projects and made some telegram bots for my and my friends daily tasks. 
+I have some experience in Django, Flask and FastAPI projects and made some telegram bots. 
 
 I am looking forward to expand my experience and cooperate with people on their interesting projects. Despite the lack of experience in programming due to my work in technical support, I am quite good at analyzing tasks and asking the right questions, and I always try to understand everything to the end and resolve all of users problems.
 
 I am currently in search for job offers to move from technical support to programming.
 
-You can reach me by one of my e-mails: [therederickmind@gmail.com](mailto:therederickmind@gmail.com) / [levushkin.ni@gmail.com](mailto:levushkin.ni@gmail.com)
+You can reach me by one of my e-mails: [mail 1](mailto:levushkin.ni@gmail.com) / [mail 2](mailto:therederickmind@gmail.com)
 or by [telegram](https://t.me/Rederickmind)
 
 Here is my Yandex course diploma: [RU](Documents\Yandex Practicum\Лёвушкин Никита Ильич_20232BEP00401.pdf) / [EN](Documents\Yandex Practicum\Nikita Levushkin_20232BEP00401.pdf)
@@ -54,7 +54,7 @@ I speak Russian and English.
 - [Cat charity fund project with statistic reports to Google Sheets.](https://github.com/Rederickmind/QRkot_spreadsheets)
 
 ### Telegram Bots
-- [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot)
+- [Bot for Telegram that fixes previews for (x|twitter|instagram).com links in Telegram chats.](https://github.com/Rederickmind/LinkFixer_bot) - deployed and currently working [bot](https://t.me/ClippyRover_bot)
 - [Alert bot for Yandex.Practicum Homework review statuses.](https://github.com/Rederickmind/homework_bot)
 - In progress: [Selfhosted VPN keys management tool](https://github.com/Rederickmind/VPN_bot)
 - [Random cat images from API bot](https://github.com/Rederickmind/KittyBot)
